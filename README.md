@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hanna1909
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning python and a bit of html/css
-- 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me : - 
 
 <!---
